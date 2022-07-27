@@ -9,6 +9,7 @@ public class KDVHesaplama {
         a= input.nextInt();
         kdv=((a*18)/100f)+a;
         tutar=kdv-a;
+
         System.out.println("kdv'siz fiyat: "+a);
         System.out.println("kdv'li fiyat: "+kdv);
         System.out.println("kdv tutari: "+tutar);
