@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Pisagor {
     public static void main(String[] args) {
         double a,b,c;
+
     Scanner input=new Scanner(System.in);
         System.out.println("A sayisini girin");
     a= input.nextInt();
