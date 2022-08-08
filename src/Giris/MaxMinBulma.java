@@ -20,6 +20,7 @@ public class MaxMinBulma {
             if (sayi < min) {
                 min = sayi;
             }
+
         }
         System.out.println("max sayi: " + max);
         System.out.println("min sayi :" + min);
