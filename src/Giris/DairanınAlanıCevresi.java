@@ -12,5 +12,8 @@ public class DairanınAlanıCevresi {
         System.out.println("alanı:"+alan);
         System.out.println("\ncevresi:"+cevre);
 
+
+
+
     }
 }
