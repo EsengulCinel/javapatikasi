@@ -9,6 +9,11 @@ public class DairanınAlanıCevresi {
         r=input.nextInt();
         alan=pi*r*r;
         cevre=2*pi*r;
+
+
+
+
+
         System.out.println("alanı:"+alan);
         System.out.println("\ncevresi:"+cevre);
 
