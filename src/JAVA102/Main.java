@@ -8,6 +8,7 @@ public class Main {
 //p1.showName();
 //Player.showName();
 
+
         Course mat = new Course("MATEMATIK", "MAT-101", 70);
         Course fizik = new Course("FIZIK", "FIZIK-101", 20);
         Course kimya = new Course("KIMYA", "KIMYA-101", 100);
