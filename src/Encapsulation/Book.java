@@ -4,12 +4,15 @@ public class Book {
     private String name;
     private int pageNumber;
 
-    Book(String name, int pageNumber) {
+    public Book(String name, int pageNumber) {
         this.name = name;
         if (pageNumber < 0) {
             pageNumber = 0;
         }
         this.pageNumber = pageNumber;
+    }
+
+    public Book(String küçük_prens, int pageNumber, String s, String s1) {
     }
 
     public int showPageNumber() {
